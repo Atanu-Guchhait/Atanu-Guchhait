@@ -1,103 +1,126 @@
-# 👨‍💻 Atanu Guchhait
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#0078D7;">Atanu Guchhait</span></h1>
+<h3 align="center">🚀 AI & Machine Learning Engineer | Passionate about Building Intelligent Systems</h3>
 
-📞 +91 8348998836 | 📧 atanuguchhait721437@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/atanuguchhait/) | [GitHub](https://github.com/atanuguchhait)  
+<p align="center">
+  <a href="mailto:atanuguchhait721437@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/atanuguchhait/"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/atanuguchhait"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
 ## 🎓 Education
 
-**Brainware University, Barasat**  
+🎓 **Brainware University, Barasat**  
 *B.Tech in Computer Science & Engineering (Specialization in AI & ML)*  
-**2022 – 2026 | CGPA:** 9.28 / 10  
+📅 *2022 – 2026* | **CGPA:** 9.28 / 10  
 
 ---
 
 ## 💼 Work Experience
 
-### 🧠 Industrial Trainee | **LearnMate: AI-Powered Personalized Tutor System**  
-**Feb – Apr 2025 | Remote | Intel Corporation (Training Partner)**  
-🔗 [Live Project Link](#)
+### 🧠 **Industrial Trainee – LearnMate: AI-Powered Personalized Tutor System**
+📍 *Remote | Intel Corporation Training Partner*  
+📅 *Feb – Apr 2025*  
+🔗 [🔗 Live Project Link](#)
 
-**Tech Stack:** Artificial Intelligence, Machine Learning, RAG-Pipeline, NumPy, Pandas, Matplotlib, Seaborn, Streamlit  
+**🛠 Tech Stack:** `AI` `Machine Learning` `RAG-Pipeline` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Streamlit`
 
-- Developed an **AI-powered personalized tutoring system** to enhance student engagement and adaptive learning.  
-- Built modules for **student promotion forecasting**, **assessment score prediction**, **content-level recommendations**, and **PDF-based knowledge extraction**.  
-- Integrated **RAG (Retrieval-Augmented Generation)** for knowledge-based response systems.  
+- Developed an **AI-powered personalized tutor** enhancing engagement through adaptive learning.  
+- Built modules for **promotion forecasting**, **assessment prediction**, **content recommendations**, and **PDF-based knowledge extraction**.  
+- Integrated **RAG (Retrieval-Augmented Generation)** for context-aware responses.  
 
 ---
 
 ## 🚀 Projects
 
-### 🔒 SpamShield: An SMS Spam Classification System  
-🔗 [Live Project Link](#)  
-**Tech Stack:** Machine Learning, NLP, NumPy, Pandas, Matplotlib, Seaborn, Streamlit  
+### 🔒 **SpamShield: SMS Spam Classification System**
+🔗 [Live Link](#)  
+🧩 **Tech Stack:** `Machine Learning` `NLP` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Streamlit`
 
-- Built an **SMS spam classification system** achieving **99% accuracy** using ML and NLP techniques.  
-- Designed an NLP pipeline — tokenization, stopword removal, stemming, TF-IDF vectorization.  
-- Deployed using **Streamlit** for real-time spam detection with an intuitive UI.  
-
----
-
-### 🛒 SmartCart: Multi-Approach E-commerce Recommender  
-🔗 [Live Project Link](#)  
-**Tech Stack:** NLP, Cosine Similarity, FastAPI, MySQL, NumPy, Pandas, Matplotlib, Seaborn  
-
-- Implemented **rating-based**, **content-based**, **collaborative**, and **hybrid** recommendation systems.  
-- Used **TF-IDF + Cosine Similarity** for content-based filtering and **MySQL** for backend data storage.  
-- Integrated into a **FastAPI** application delivering real-time recommendations and improved UX.  
+- Achieved **99% accuracy** using advanced NLP preprocessing (TF-IDF, stemming, tokenization).  
+- Deployed using **Streamlit** for real-time spam detection.  
 
 ---
 
-## 🧩 Technical Skills
+### 🛒 **SmartCart: Multi-Approach E-commerce Recommender**
+🔗 [Live Link](#)  
+🧩 **Tech Stack:** `NLP` `Cosine Similarity` `FastAPI` `MySQL` `NumPy` `Pandas`
 
-**Languages:** Python, Java  
-**Mathematics:** Probability & Statistics  
-**Data Science Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow  
-**Machine Learning:** Classification, Regression, Clustering, Dimensionality Reduction, Anomaly Detection  
-**Deep Learning:** ANN, CNN, RNN, LSTM, GRU, Encoder-Decoder, Attention, Transformer, Transfer Learning  
-**Generative AI:** LangChain, HuggingFace, LLMs, ChatModels, RAG Pipelines  
-**NLP:** Tokenization, Stemming, One-Hot Encoding, Bag of Words, TF-IDF, Word2Vec  
-**Database & API:** MySQL, FastAPI  
-**Web Scraping:** BeautifulSoup  
-**Containerization & Deployment:** Docker  
-**Tools:** VS Code, GitHub, Jupyter Notebook, Google Colab, Anaconda  
+- Developed **rating-based**, **content-based**, **collaborative**, and **hybrid** recommendation systems.  
+- Used **TF-IDF + Cosine Similarity** for efficient product personalization.  
+- Integrated **FastAPI backend** with **MySQL** for real-time suggestions.  
+
+---
+
+## ⚙️ Technical Skills
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Languages** | 🐍 Python, ☕ Java |
+| **Data Science** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow |
+| **Machine Learning** | Classification, Regression, Clustering, Dimensionality Reduction, Anomaly Detection |
+| **Deep Learning** | ANN, CNN, RNN, LSTM, GRU, Transformer, Attention, Transfer Learning |
+| **Generative AI** | LangChain, HuggingFace, LLMs, ChatModels, RAG Pipelines |
+| **NLP** | Tokenization, Stemming, TF-IDF, Word2Vec, Bag of Words |
+| **Database & APIs** | MySQL, FastAPI |
+| **Deployment** | Docker, Streamlit |
+| **Tools** | VS Code, Jupyter, Colab, Anaconda, GitHub |
 
 ---
 
 ## 📚 Relevant Courseworks
-
-- Data Structures & Algorithms  
-- Database Management System (DBMS)  
-- Object-Oriented Programming (OOP)  
-- Computer Networking  
+🧩 Data Structures & Algorithms  
+🗄️ Database Management System  
+⚙️ Object-Oriented Programming  
+🌐 Computer Networking  
 
 ---
 
 ## 🏆 Achievements
 
-- 🎯 **Intel-Sponsored Industrial Training Program** — Selected among **Top 50 out of 650+** students.  
-- 🥈 **Secured 2nd Rank** in 3rd Semester (AI & ML specialization).  
-- 🧠 **113th Rank** in SIT ICOE Hackathon.  
-- 💰 Recipient of **HDFC Parivartan’s ECSS Programme** & **Swami Vivekananda Merit-cum-Means Scholarship**.  
+🏅 **Intel-Sponsored Industrial Training Program** – *Top 50 out of 650+ students*  
+🥈 **2nd Rank** – Brainware University (3rd Semester)  
+💡 **113th Rank** – SIT ICOE Hackathon  
+🎓 **Scholarships:** HDFC Parivartan ECSS & Swami Vivekananda Merit-cum-Means  
 
 ---
 
-## 🌟 About Me
+## 💡 About Me
 
-I’m an aspiring **AI & ML Engineer** passionate about building intelligent systems that make learning, automation, and data-driven decisions smarter.  
-I enjoy solving real-world problems using **Machine Learning**, **Deep Learning**, and **Generative AI**.  
+I’m an aspiring **AI & ML Engineer** passionate about developing intelligent, data-driven systems that solve real-world problems.  
+I love exploring the intersection of **Machine Learning, Deep Learning, and Generative AI**, and applying them to innovative applications.  
 
-📈 Always exploring, learning, and sharing knowledge in the world of Artificial Intelligence.
-
----
-
-## 🤝 Let's Connect!
-
-💬 Open to internships, collaborations, and research opportunities in AI, ML, and Data Science.  
-📧 Email: atanuguchhait721437@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/atanuguchhait/) | [GitHub](https://github.com/atanuguchhait)
+> *"The best way to predict the future is to create it." — Peter Drucker*
 
 ---
 
-⭐ *“The best way to predict the future is to create it.” — Peter Drucker*
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:atanuguchhait721437@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/atanuguchhait/"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/atanuguchhait"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+### 💻 Tech Stack Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
+
+---
+
+⭐ *If you like my work, consider giving a star 🌟 to my repositories!*
