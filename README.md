@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atanu Guchhait</h1>
 <h3 align="center">Artificial Intelligence and Machine Learning</h3>
 
-- 🔭 I’m currently working on **Virtual Herbal Garden**
-
-- 🌱 I’m currently learning **Generative-AI**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
