@@ -1,16 +1,103 @@
-<h1 align="center">Hi 👋, I'm Atanu Guchhait</h1>
-<h3 align="center">Artificial Intelligence and Machine Learning</h3>
+# 👨‍💻 Atanu Guchhait
 
+📞 +91 8348998836 | 📧 atanuguchhait721437@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/atanuguchhait/) | [GitHub](https://github.com/atanuguchhait)  
 
-<p align="left">
-</p>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+---
 
-###
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🎓 Education
+
+**Brainware University, Barasat**  
+*B.Tech in Computer Science & Engineering (Specialization in AI & ML)*  
+**2022 – 2026 | CGPA:** 9.28 / 10  
+
+---
+
+## 💼 Work Experience
+
+### 🧠 Industrial Trainee | **LearnMate: AI-Powered Personalized Tutor System**  
+**Feb – Apr 2025 | Remote | Intel Corporation (Training Partner)**  
+🔗 [Live Project Link](#)
+
+**Tech Stack:** Artificial Intelligence, Machine Learning, RAG-Pipeline, NumPy, Pandas, Matplotlib, Seaborn, Streamlit  
+
+- Developed an **AI-powered personalized tutoring system** to enhance student engagement and adaptive learning.  
+- Built modules for **student promotion forecasting**, **assessment score prediction**, **content-level recommendations**, and **PDF-based knowledge extraction**.  
+- Integrated **RAG (Retrieval-Augmented Generation)** for knowledge-based response systems.  
+
+---
+
+## 🚀 Projects
+
+### 🔒 SpamShield: An SMS Spam Classification System  
+🔗 [Live Project Link](#)  
+**Tech Stack:** Machine Learning, NLP, NumPy, Pandas, Matplotlib, Seaborn, Streamlit  
+
+- Built an **SMS spam classification system** achieving **99% accuracy** using ML and NLP techniques.  
+- Designed an NLP pipeline — tokenization, stopword removal, stemming, TF-IDF vectorization.  
+- Deployed using **Streamlit** for real-time spam detection with an intuitive UI.  
+
+---
+
+### 🛒 SmartCart: Multi-Approach E-commerce Recommender  
+🔗 [Live Project Link](#)  
+**Tech Stack:** NLP, Cosine Similarity, FastAPI, MySQL, NumPy, Pandas, Matplotlib, Seaborn  
+
+- Implemented **rating-based**, **content-based**, **collaborative**, and **hybrid** recommendation systems.  
+- Used **TF-IDF + Cosine Similarity** for content-based filtering and **MySQL** for backend data storage.  
+- Integrated into a **FastAPI** application delivering real-time recommendations and improved UX.  
+
+---
+
+## 🧩 Technical Skills
+
+**Languages:** Python, Java  
+**Mathematics:** Probability & Statistics  
+**Data Science Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow  
+**Machine Learning:** Classification, Regression, Clustering, Dimensionality Reduction, Anomaly Detection  
+**Deep Learning:** ANN, CNN, RNN, LSTM, GRU, Encoder-Decoder, Attention, Transformer, Transfer Learning  
+**Generative AI:** LangChain, HuggingFace, LLMs, ChatModels, RAG Pipelines  
+**NLP:** Tokenization, Stemming, One-Hot Encoding, Bag of Words, TF-IDF, Word2Vec  
+**Database & API:** MySQL, FastAPI  
+**Web Scraping:** BeautifulSoup  
+**Containerization & Deployment:** Docker  
+**Tools:** VS Code, GitHub, Jupyter Notebook, Google Colab, Anaconda  
+
+---
+
+## 📚 Relevant Courseworks
+
+- Data Structures & Algorithms  
+- Database Management System (DBMS)  
+- Object-Oriented Programming (OOP)  
+- Computer Networking  
+
+---
+
+## 🏆 Achievements
+
+- 🎯 **Intel-Sponsored Industrial Training Program** — Selected among **Top 50 out of 650+** students.  
+- 🥈 **Secured 2nd Rank** in 3rd Semester (AI & ML specialization).  
+- 🧠 **113th Rank** in SIT ICOE Hackathon.  
+- 💰 Recipient of **HDFC Parivartan’s ECSS Programme** & **Swami Vivekananda Merit-cum-Means Scholarship**.  
+
+---
+
+## 🌟 About Me
+
+I’m an aspiring **AI & ML Engineer** passionate about building intelligent systems that make learning, automation, and data-driven decisions smarter.  
+I enjoy solving real-world problems using **Machine Learning**, **Deep Learning**, and **Generative AI**.  
+
+📈 Always exploring, learning, and sharing knowledge in the world of Artificial Intelligence.
+
+---
+
+## 🤝 Let's Connect!
+
+💬 Open to internships, collaborations, and research opportunities in AI, ML, and Data Science.  
+📧 Email: atanuguchhait721437@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/atanuguchhait/) | [GitHub](https://github.com/atanuguchhait)
+
+---
+
+⭐ *“The best way to predict the future is to create it.” — Peter Drucker*
